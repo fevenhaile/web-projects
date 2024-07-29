@@ -20,10 +20,10 @@ The job with the Edit and Remove buttons will show up below.
 MODIFY AN ASSIGNMENT:
 Next to a task, click Edit, make changes, and save.
 ![photo_2024-07-29_18-09-39](https://github.com/user-attachments/assets/96318a49-2c37-404f-a79c-d813c0c352a7)
-Editing the "watching a movie" task to "reading a book"
+             Editing the "watching a movie" task to "reading a book"
 
 ![photo_2024-07-29_18-10-27](https://github.com/user-attachments/assets/dd4b728f-3b65-4e71-9791-6f750be29392)
-Adding another 2 tasks "making cake" and "hiking".
+                 Adding another 2 tasks "making cake" and "hiking".
 
 
 
@@ -31,7 +31,8 @@ Adding another 2 tasks "making cake" and "hiking".
 ELIMINATE A TASK:
 To remove the job, click Remove.
 ![photo_2024-07-29_18-10-59](https://github.com/user-attachments/assets/3a249263-dec8-4633-8bf1-5a7b9f30d41a)
-by clicking the remove buttton of hiking now our available task are only "reading a book" and "making cake".
+                   by clicking the remove buttton of hiking now our available task are 
+                   only "reading a book" and "making cake".
 
 
 
